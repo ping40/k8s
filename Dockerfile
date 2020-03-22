@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-minikube/kicbase:v0.0.7@sha256:a6f288de0e5863cdeab711fa6bafa38ee7d8d285ca14216ecf84fcfb07c7d176
